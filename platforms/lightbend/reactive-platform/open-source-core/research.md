@@ -1,19 +1,30 @@
 # Step 1: Get the Big Picture
 
 #### What is the high level-topic that you want to learn about?
-- TODO
+- Lightbend Reactive Platform - Open Source Core
 
 #### Briefly provide a summary of what your topic is about (the big picture).
-- TODO
+- Save weeks in development
+    - Create distributed systems correctly from the start, without all the guesswork. 
+    - Cut down on dev time with hot-reloading and a simplified setup that takes care of environment configuration and dependency injection.
+- Revitalize legacy systems
+    - Breath new life into legacy systems with an asynchronous, message-driven approach
+    - That integrates with everything from Java and Scala libraries & tools to IDEs, DBs & Fast Data systems.
+- Ship to production more predictably
+    - With built-in support for Docker, service discovery and shared configuration, 
+    - Developers get familiar with production needs early to make deliveries more frequent and predictable.
 
 #### Break your high level topic up into smaller subtopics or focus areas.
 Some topics will have many subtopics, but others will already be specialized areas of focus.
 The idea here is just to try and get a picture of how big the thing you want to learn is, so that you can determine the proper scope in the next step.
-- TODO
+- Lagom for Microservices built on Play and Akka.
+- Play for Web applications/services built on Akka.
+- Akka for message-driven runtime.
 
 ### Checklist:
+- **NOTE:** Focus on Lagom first as it's a high level framework that is built on top of Play and Akka.
 - [ ] Do you feel like you know enough about your topic that you have a good idea of what you don’t know and what you need to learn?
-- [ ] Do you feel like you have an idea of how "big” your topic is?
+- [ ] Do you feel like you have an idea of how "big" your topic is?
 - [ ] If your topic is big, do you feel like you have an idea of what subtopics or areas you could focus on in order to learn the parts of the bigger topic that are most important to you?
 - [ ] Do you know why you want to learn about this topic? Does it still interest you? (Sometimes, you may find that you don’t really want to learn about the topic once you’ve dug in enough to understand the basics of what it is about. Don’t worry if this happens; you’ve just saved yourself some time that you would have wasted learning about something you aren’t interested in.)
 
@@ -29,9 +40,7 @@ The idea here is just to try and get a picture of how big the thing you want to 
 - TODO
 
 #### Multiply weeks _________ by hours _________ = _________ approximate hours to learn your topic.
-- TODO
-
-#### This is pretty basic information, but use this information to help yourself determine a realistic scope.
+This is pretty basic information, but use this information to help yourself determine a realistic scope.
 - TODO
 
 ### Scoped Topic
@@ -150,7 +159,7 @@ Remember that you don’t have to go through each resource from beginning to end
 #### What is the general idea of this module in your learning plan?
 - TODO
 
-#### What actions can you take to "play around” with what you are going to be learning for this module?
+#### What actions can you take to "play around" with what you are going to be learning for this module?
 This can be tricky to decide. You may have to get creative. For something like a programming language or technology, the answer is usually straightforward. 
 For something more abstract, your action might be something abstract as well, like a thought experiment or writing down a list of questions you have.
 
@@ -159,11 +168,11 @@ For something more abstract, your action might be something abstract as well, li
 
 # Step 8: Play Around
 
-#### What can you do to "play around” with the subject you are learning about?
+#### What can you do to "play around" with the subject you are learning about?
 List a few different choices if you can.
 - TODO
 
-#### Pick one of the things you can do and do it. Then list any questions you have as you are "playing around” here. 
+#### Pick one of the things you can do and do it. Then list any questions you have as you are "playing around" here. 
 If you aren’t coming up with many questions, you may not know enough to really get started. 
 You may want to go back to the previous step and learn just a bit more so that you can do some meaningful experiments on your own.
 - TODO
