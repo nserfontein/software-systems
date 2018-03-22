@@ -41,7 +41,6 @@ The idea here is just to try and get a picture of how big the thing you want to 
 
 #### Multiply weeks _________ by hours _________ = _________ approximate hours to learn your topic.
 This is pretty basic information, but use this information to help yourself determine a realistic scope.
-- TODO
 
 ### Scoped Topic
 

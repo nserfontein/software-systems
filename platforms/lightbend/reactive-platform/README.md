@@ -21,7 +21,7 @@ The idea here is just to try and get a picture of how big the thing you want to 
     - Application Security
 
 ### Checklist:
-- **NOTE:** The Enterprise Suite needs a commercial subscription, use Open Source Code.
+- **NOTE:** The Enterprise Suite needs a commercial subscription, use Open Source Core.
 - [ ] Do you feel like you know enough about your topic that you have a good idea of what you don’t know and what you need to learn?
 - [ ] Do you feel like you have an idea of how "big" your topic is?
 - [ ] If your topic is big, do you feel like you have an idea of what subtopics or areas you could focus on in order to learn the parts of the bigger topic that are most important to you?
@@ -40,7 +40,6 @@ The idea here is just to try and get a picture of how big the thing you want to 
 
 #### Multiply weeks _________ by hours _________ = _________ approximate hours to learn your topic.
 This is pretty basic information, but use this information to help yourself determine a realistic scope.
-- TODO
 
 ### Scoped Topic
 
