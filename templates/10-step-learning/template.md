@@ -6,7 +6,7 @@
 #### Briefly provide a summary of what your topic is about (the big picture).
 - TODO
 
-#### Break your high level topic up into smaller subtopics or focus areas.
+#### Break your high level topic up into smaller subtopics or focus areas (a.k.a. modules).
 Some topics will have many subtopics, but others will already be specialized areas of focus.
 The idea here is just to try and get a picture of how big the thing you want to learn is, so that you can determine the proper scope in the next step.
 - TODO
@@ -59,7 +59,8 @@ List as many of them as you can think of here.
 
 #### Using this information, come up with a clearly defined success criteria that you will use to determine when you have reached your goal.
 Remember, good success criteria will be measureble and unambiguous.
-- TODO
+- I will have learned to _TODO_.
+- When _TODO_.
 
 ### Checklist:
 - [ ] Is your success criteria measurable?
@@ -116,6 +117,7 @@ For blog posts and internet articles, you are probably better off just creating 
 - TODO
 
 #### From both of these lists, come up with the modules for your learning plan. Put them in the order that makes the most sense to you.
+(These will be used to repeat steps 7-10.)
 - TODO
 
 ### Checklist:
