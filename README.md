@@ -15,7 +15,7 @@
 - * Concepts, Techniques, and Models of Computer Programming
 - * Database Systems by C.J Date
 - * Thinking Forth: A Language and Philosophy for Solving Problems
-- * The Little Schemer
+- [O] The Little Schemer
 
 ## [The Ultimate Reading List for Developers](https://medium.com/@YogevSitton/the-ultimate-reading-list-for-developers-e96c832d9687)
 - ***** Code Complete: A Practical Handbook of Software Construction, Second Edition
