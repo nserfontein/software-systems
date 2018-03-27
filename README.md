@@ -1,5 +1,7 @@
 # Resources
 
+## Books
+
 #### ★★★★★
 -  Code Complete: A Practical Handbook of Software Construction, Second Edition
 -  The Pragmatic Programmer: From Journeyman to Master
@@ -40,7 +42,8 @@
 -  The Little Schemer
 -  The Passionate Programmer: Creating a Remarkable Career in Software Development
 
-# Other Resources
+## Other Resources
+
 -  [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 -  [The Ultimate Reading List for Developers](https://medium.com/@YogevSitton/the-ultimate-reading-list-for-developers-e96c832d9687)
 -  [The Best Books All Software Developers Should Read](https://simpleprogrammer.com/best-books-software-developers/)
