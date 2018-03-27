@@ -1,7 +1,7 @@
 # Resources
 
 ## [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
-- ***** Code Complete: A Practical Handbook of Software Construction, Second Edition
+- [XXXXX] Code Complete: A Practical Handbook of Software Construction, Second Edition
 - ***** The Pragmatic Programmer: From Journeyman to Master
 - **** Design Patterns: Elements of Reusable Object-Oriented Software
 - **** The Mythical Man-Month
