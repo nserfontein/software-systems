@@ -3,90 +3,42 @@
 #### ★★★★★
 -  Code Complete: A Practical Handbook of Software Construction, Second Edition
 -  The Pragmatic Programmer: From Journeyman to Master
--  Code Complete: A Practical Handbook of Software Construction, Second Edition
--  The Pragmatic Programmer: From Journeyman to Master
--  Code Complete: A Practical Handbook of Software Construction, Second Edition
--  The Pragmatic Programmer: From Journeyman to Master
--  Code Complete: A Practical Handbook of Software Construction, Second Edition
--  The Pragmatic Programmer: From Journeyman to Master
--  Code Complete: A Practical Handbook of Software Construction, Second Edition
--  The Pragmatic Programmer: From Journeyman to Master
-
-
-
 
 #### ★★★★
-#### ★★★★ Design Patterns: Elements of Reusable Object-Oriented Software
-#### ★★★★ The Mythical Man-Month
-#### ★★★★ Clean Code: A Handbook of Agile Software Craftsmanship
-#### ★★★★ Design Patterns: Elements of Reusable Object-Oriented Software
-#### ★★★★ Refactoring: Improving the Design of Existing Code
-#### ★★★★ The Mythical Man-Month
-#### ★★★★ Working Effectively with Legacy Code
-#### ★★★★ Clean Code: A Handbook of Agile Software Craftsmanship
-#### ★★★★ Design Patterns: Elements of Reusable Object-Oriented Software
-#### ★★★★ Refactoring: Improving the Design of Existing Code
-#### ★★★★ Working Effectively With Legacy Code
-#### ★★★★ Clean Code: A Handbook of Agile Software Craftsmanship
-#### ★★★★ Design Patterns: Elements of Reusable Object-Oriented Software
-#### ★★★★ Refactoring: Improving the Design of Existing Code
-#### ★★★★ The Mythical Man-Month
-#### ★★★★ Working Effectively with Legacy Code
-#### ★★★★ Clean Code: A Handbook of Agile Software Craftsmanship
-#### ★★★★ Refactoring: Improving the Design of Existing Code
-#### ★★★★ The Mythical Man-Month: Essays on Software Engineering
-#### ★★★★ Working Effectively With Legacy Code
-
-
-
+-  Design Patterns: Elements of Reusable Object-Oriented Software
+-  Clean Code: A Handbook of Agile Software Craftsmanship
+-  The Mythical Man-Month: Essays on Software Engineering
+-  Refactoring: Improving the Design of Existing Code
+-  Working Effectively with Legacy Code
 
 #### ★★★
-#### ★★★ Peopleware: Productive Projects and Teams
-#### ★★★ Structure and Interpretation of Computer Programs
-#### ★★★ The Art of Computer Programming
-#### ★★★ Code: The Hidden Language of Computer Hardware and Software
-#### ★★★ Introduction to Algorithms
-#### ★★★ Peopleware: Productive Projects and Teams
-#### ★★★ Code: The Hidden Language of Computer Hardware and Software
-#### ★★★ Introduction to Algorithms
-#### ★★★ Structure and Interpretation of Computer Programs
-#### ★★★ The Art of Computer Programming
-#### ★★★ Code: The Hidden Language of Computer Hardware and Software
-#### ★★★ Introduction to Algorithms
-#### ★★★ Structure and Interpretation of Computer Programs
-#### ★★★ The Art of Computer Programming
-#### ★★★ Peopleware: Productive Projects and Teams
-
-
-
+-  Code: The Hidden Language of Computer Hardware and Software
+-  Introduction to Algorithms
+-  Peopleware: Productive Projects and Teams
+-  Structure and Interpretation of Computer Programs
+-  The Art of Computer Programming
 
 #### ★★
-#### ★★ Programming Pearls
-#### ★★ Patterns of Enterprise Application Architecture
-#### ★★ Patterns of Enterprise Application Architecture
-#### ★★ Soft Skills: The Software Developer’s Life Manual
-#### ★★ Programming Pearls (2nd Edition)
-#### ★★ Soft Skills: The Software Developer's Life Manual
-
-
-
+-  Patterns of Enterprise Application Architecture
+-  Programming Pearls (2nd Edition)
+-  Soft Skills: The Software Developer’s Life Manual
 
 #### ★
-#### ★ Don’t Make Me Think
-#### ★ Mastering Regular Expressions
-#### ★ Algorithm Design Manual
-#### ★ Concepts, Techniques, and Models of Computer Programming
-#### ★ Database Systems by C.J Date
-#### ★ Thinking Forth: A Language and Philosophy for Solving Problems
-#### ★ The Little Schemer
-#### ★ Agile Software Development, Principles, Patterns, and Practices
-#### ★ Testing Computer Software
-#### ★ Refactoring to Patterns
-#### ★ The Passionate Programmer: Creating a Remarkable Career in Software Development
-#### ★ Cracking the Coding Interview: 150 Programming Questions and Solutions
-#### ★ Compilers: Principles, Techniques, and Tools (Second Edition)
-#### ★ The Clean Coder: A Code of Conduct for Professional Programmers
-#### ★ Head First Design Patterns
+-  Algorithm Design Manual
+-  Agile Software Development, Principles, Patterns, and Practices
+-  Compilers: Principles, Techniques, and Tools (Second Edition)
+-  Concepts, Techniques, and Models of Computer Programming
+-  Cracking the Coding Interview: 150 Programming Questions and Solutions
+-  Database Systems by C.J Date
+-  Don’t Make Me Think
+-  Head First Design Patterns
+-  Mastering Regular Expressions
+-  Refactoring to Patterns
+-  Testing Computer Software
+-  Thinking Forth: A Language and Philosophy for Solving Problems
+-  The Clean Coder: A Code of Conduct for Professional Programmers
+-  The Little Schemer
+-  The Passionate Programmer: Creating a Remarkable Career in Software Development
 
 # Other Resources
 -  [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
